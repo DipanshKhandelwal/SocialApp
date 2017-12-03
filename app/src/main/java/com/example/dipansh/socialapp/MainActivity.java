@@ -1,4 +1,4 @@
-gpackage com.example.dipansh.socialapp;
+package com.example.dipansh.socialapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
